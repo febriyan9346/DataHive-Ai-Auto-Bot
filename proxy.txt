@@ -1,0 +1,13 @@
+# Add your proxies here (one per line)
+# Supported formats:
+# http://ip:port
+# https://ip:port
+# socks4://ip:port
+# socks5://ip:port
+# ip:port (will default to http)
+#
+# Examples:
+# http://proxy1.example.com:8080
+# socks5://proxy2.example.com:1080
+# 192.168.1.1:3128
+
